@@ -1,2 +1,5 @@
 # hello-universe
-I'm a noob, okay
+I'm a noob
+
+
+I'm learning, loading.............45%
